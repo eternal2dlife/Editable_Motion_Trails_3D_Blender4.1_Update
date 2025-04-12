@@ -3,3 +3,5 @@ I took some time and update API of Motiontrail3D addon for new Blender 4.1 versi
 
 Original addon for blender 2.9 – Motiontrail3D
 link: https://blendermarket.com/products/motiontrail3d
+
+Video Tutorial: https://www.youtube.com/watch?v=clhqTFLaaNQ
